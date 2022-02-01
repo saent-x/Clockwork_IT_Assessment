@@ -1,0 +1,12 @@
+/home/kelvin/Documents/projects/clockwork-it/clockwork-it-assessment.lib/bin/Debug/net6.0/clockwork-it-assessment.lib.deps.json
+/home/kelvin/Documents/projects/clockwork-it/clockwork-it-assessment.lib/bin/Debug/net6.0/clockwork-it-assessment.lib.dll
+/home/kelvin/Documents/projects/clockwork-it/clockwork-it-assessment.lib/bin/Debug/net6.0/ref/clockwork-it-assessment.lib.dll
+/home/kelvin/Documents/projects/clockwork-it/clockwork-it-assessment.lib/bin/Debug/net6.0/clockwork-it-assessment.lib.pdb
+/home/kelvin/Documents/projects/clockwork-it/clockwork-it-assessment.lib/obj/Debug/net6.0/clockwork-it-assessment.lib.csproj.AssemblyReference.cache
+/home/kelvin/Documents/projects/clockwork-it/clockwork-it-assessment.lib/obj/Debug/net6.0/clockwork-it-assessment.lib.GeneratedMSBuildEditorConfig.editorconfig
+/home/kelvin/Documents/projects/clockwork-it/clockwork-it-assessment.lib/obj/Debug/net6.0/clockwork-it-assessment.lib.AssemblyInfoInputs.cache
+/home/kelvin/Documents/projects/clockwork-it/clockwork-it-assessment.lib/obj/Debug/net6.0/clockwork-it-assessment.lib.AssemblyInfo.cs
+/home/kelvin/Documents/projects/clockwork-it/clockwork-it-assessment.lib/obj/Debug/net6.0/clockwork-it-assessment.lib.csproj.CoreCompileInputs.cache
+/home/kelvin/Documents/projects/clockwork-it/clockwork-it-assessment.lib/obj/Debug/net6.0/clockwork-it-assessment.lib.dll
+/home/kelvin/Documents/projects/clockwork-it/clockwork-it-assessment.lib/obj/Debug/net6.0/ref/clockwork-it-assessment.lib.dll
+/home/kelvin/Documents/projects/clockwork-it/clockwork-it-assessment.lib/obj/Debug/net6.0/clockwork-it-assessment.lib.pdb
